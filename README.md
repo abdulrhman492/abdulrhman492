@@ -14,7 +14,7 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/abd-el-rhman-nasr-3b9304232" target="_blank"><img src="https://img.shields.io/badge/-Abdelrhman%20Nasr-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/abd-el-rhman-nasr-3b9304232" target="_blank"><img src="https://img.shields.io/badge/-Abd%20UlRhman%20Nasr-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <!-- <a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a> -->
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -39,8 +39,8 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhman492&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrhman492&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
-<a href="https://komarev.com/ghpvc/?username=abdelrhman492&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=abdelrhman492&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=abdulrhman492&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=abdulrhman492&style=for-the-badge">
 </a>
